@@ -54,3 +54,6 @@ while True:
     check_close()
     my_circle.move()
     drawing()
+
+
+# comment
